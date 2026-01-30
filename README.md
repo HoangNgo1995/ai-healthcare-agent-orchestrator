@@ -26,7 +26,7 @@ azd up
 
 **Cost-Efficient**: Uses GPT-4o Vision for radiology (no GPU needed) • Saves ~90-95% vs GPU deployments
 
-👉 See [detailed instructions](#getting-started) below for environment configuration and Teams setup.
+👉 See [Quick Start Guide](QUICKSTART.md) for step-by-step instructions or [detailed setup](#getting-started) below.
 
 ## Features
 
