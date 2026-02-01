@@ -1,0 +1,10 @@
+[
+       {
+              "filename": "x-ray_colorectal_cancer.png",
+              "type": "pathology image"
+       },
+       {
+              "filename": "x-ray_colorectal_cancer.png",
+              "type": "CT image"
+       }
+]
